@@ -1,0 +1,5 @@
+node_modules/ 
+virtual/ 
+__pycache__/ 
+*.pkl 
+.env 
