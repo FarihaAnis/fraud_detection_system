@@ -21,3 +21,30 @@ By replacing **error-prone manual reviews with an automated risk assessment**, t
 ## 📊 Timeline of Process Optimization  
 ![timeline](https://github.com/user-attachments/assets/38fe56ff-266d-4929-bc21-c8291fed76ef)
 
+---
+
+## 🔧 Tech Stack  
+This project leverages a combination of **machine learning, backend development, and frontend visualization** to enable automated fraud detection.  
+
+**🔹 Machine Learning & Data Processing**  
+- **LightGBM** – Fraud classification model
+- **Scikit-Learn** – Model evaluation, feature preprocessing, and cross-validation  
+- **Pandas & NumPy** – Data processing and feature engineering  
+- **Scipy** – Statistical computations  
+
+**🔹 Backend & Database**  
+- **Flask** – API and fraud detection logic  
+- **MySQL** – Fraud case storage and transaction records  
+- **SQLAlchemy** – ORM for database interactions  
+- **Joblib** – Model serialization and loading  
+
+**🔹 Frontend & Visualization**  
+- **React.js** – User dashboard for fraud monitoring  
+- **Recharts** – Fraud risk visualization  
+- **Ant Design** – UI components for tables and reports  
+
+**🔹 Reporting & Integration**  
+- **ReportLab** – PDF fraud report generation  
+- **Llama3** – AI-generated fraud risk summaries
+  
+---
